@@ -8,5 +8,4 @@ This README provides:
 - ✅ Available scripts
 - ✅ Repository metadata
 
-You can create this file in your repository using the GitHub web interface or by pushing it directly to your main
-
+You can create this file in your repository using the GitHub web interface or by pushing it directly to your 
