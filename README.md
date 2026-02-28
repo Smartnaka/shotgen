@@ -8,4 +8,4 @@ This README provides:
 - ✅ Available scripts
 - ✅ Repository metadata
 
-You can create this file in your rgngmddjdjdrjdjdjdjdn
+You can create this file in your rgngmddjdjdrj
