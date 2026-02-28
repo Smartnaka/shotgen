@@ -1,4 +1,4 @@
-udyddud
+udyd
 This README provides:
 - ✅ Clear project overview
 - ✅ Technology stack overview
