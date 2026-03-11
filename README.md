@@ -5,7 +5,7 @@ This README provides:
 - ✅ Project structure breakdown
 - ✅ Getting started guide
 - ✅ Development instructions
-- ✅ Available scripts
+- ✅ Available scriptsdkdjd
 - ✅ Repository metadata
 
 mrrrr
